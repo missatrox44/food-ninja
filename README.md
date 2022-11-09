@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Deployed Link
-[Name](LinkGoesHere.com)
+[Food Ninja](https://missatrox44.github.io/food-ninja/public/)
 
 ## Description
 Static landing page styled with tailwind.css
